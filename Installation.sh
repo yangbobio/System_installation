@@ -7,6 +7,6 @@ sudo apt update && sudo apt upgrade
 #3. Install R and Rstudio
 sudo apt update
 sudo apt -y install r-base
-
 sudo gdebi rstudio-xenial-1.1.442-amd64.deb
 
+#4. Install samtools, picard, gatk4
