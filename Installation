@@ -4,5 +4,5 @@ I installed the Ubuntu 18.04 by UEFI model: 1. Setting the bios boot sequence to
 2. Update
 sudo apt update && sudo apt upgrade
 
-3. Install
+3. Install R and Rstudio
 
